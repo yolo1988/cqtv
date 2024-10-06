@@ -77,12 +77,6 @@ http://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8
 #EXTINF:-1 group-title="重庆" tvg-logo="http://tv.haoqu99.com/d/file/2017/0630/smalld2ba52993edf006c17b8fd3a26c7063a1498802901.jpg",江津新闻综合
 http://222.179.155.21:1935/ch1.m3u8
 
-#EXTINF:-1 group-title="重庆" tvg-logo="http://tv.haoqu99.com/d/file/2017/0630/smalld2ba52993edf006c17b8fd3a26c7063a1498802901.jpg",江津经济生活
-http://222.179.155.21:1935/ch0.m3u8
-
-#EXTINF:-1 group-title="重庆" tvg-logo="http://tv.haoqu99.com/d/file/2017/0630/smalld2ba52993edf006c17b8fd3a26c7063a1498802901.jpg",江津文化旅游
-http://222.179.155.21:1935/ch2.m3u8
-
 #EXTINF:-1 group-title="重庆" tvg-logo="http://tv.haoqu99.com/d/file/2017/0629/small4fc04d4f7e71ea74c6171e80aac49bb11498730549.jpg",永川综合频道
 https://qxlmlive9.cbg.cn/applive/yctv01/playlist.m3u8
 
