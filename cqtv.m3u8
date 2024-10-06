@@ -86,9 +86,6 @@ http://222.179.42.129:8181/hls1.m3u8?zzhongqd
 #EXTINF:-1 group-title="重庆" tvg-logo="http://tv.haoqu99.com/d/file/2017/0629/smallfe559d43bddcad0fc776d30ddc33215d1498718504.jpg",铜梁综合
 http://183.64.174.171:40123/ch1.m3u8
 
-#EXTINF:-1 group-title="重庆" tvg-logo="http://tv.haoqu99.com/d/file/2017/0629/small6e9abbac1e528f3caf4a77b04f4672af1498749787.jpg",潼南综合
-http://183.230.184.51:65500/tntv1.m3u8
-
 #EXTINF:-1 group-title="重庆" tvg-logo="http://tv.haoqu99.com/d/file/2017/0703/small557aaf1dc9baf1096d17e479c08b2e731499081843.jpg",荣昌综合
 http://183.64.181.25:40023/rongchang01.m3u8
 
