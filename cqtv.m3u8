@@ -170,6 +170,12 @@ http://[2409:8087:1a0b:df::4013]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/
 http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8
 #EXTINF:-1 group-title="电影频道" tvg-logo="https://live.fanmingming.com/tv/CHC家庭影院.png",CHC家庭影院
 http://[2001:250:5800:1005::155]:80/liverespath/449d51febadb152094085d373b9af94a6ac5f1dd/index.m3u8
+#EXTINF:-1 group-title="电影频道" tvg-logo="https://live.fanmingming.com/tv/CHC家庭影院.png",CHC家庭影院4
+https://stream1.freetv.fun/jia-ting-ying-yuan-2.m3u8
+#EXTINF:-1 group-title="电影频道" tvg-logo="https://live.fanmingming.com/tv/CHC家庭影院.png",CHC家庭影院5
+https://stream1.freetv.fun/jia-ting-ying-yuan-5.ctv
+#EXTINF:-1 group-title="电影频道" tvg-logo="https://live.fanmingming.com/tv/CHC家庭影院.png",CHC家庭影院11
+https://stream1.freetv.fun/jia-ting-ying-yuan-11.ctv
 #EXTINF:-1 group-title="电影频道" tvg-logo="https://live.fanmingming.com/tv/CHC影迷电影.png",CHC影迷电影
 http://[2001:250:5800:1005::155]:80/liverespath/bca6167afdef7fc773405c38e695b342c1d1eca0/index.m3u8
 #EXTINF:-1 group-title="电影频道" tvg-logo="https://live.fanmingming.com/tv/CHC动作电影.png",CHC动作电影
