@@ -59,17 +59,17 @@ http://wouu.net:9977/udp/239.93.42.47:5140
 #EXTINF:-1 group-title="重庆" tvg-logo="https://live.fanmingming.com/tv/重庆卫视.png",重庆卫视1
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226963/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EjTXsJprEx2nE38tdvu5lhA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 #EXTINF:-1 group-title="重庆" tvg-logo="https://live.fanmingming.com/tv/重庆卫视.png",重庆卫视2
-http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000001096/1.m3u8
+http://14.157.91.186:4022/udp/239.77.0.182:5146
 #EXTINF:-1 group-title="重庆" tvg-logo="https://live.fanmingming.com/tv/重庆卫视.png",重庆卫视3
 https://stream1.freetv.fun/zhong-qing-wei-shi-84.ctv
 #EXTINF:-1 group-title="重庆" tvg-logo="https://live.fanmingming.com/tv/重庆新闻.png",重庆新闻
-http://211.158.153.188:8010/udp/225.0.4.59:7980
+http://123.145.18.50:8004/udp/225.0.4.188:7980
 #EXTINF:-1 group-title="重庆" tvg-logo="https://live.fanmingming.com/tv/重庆社会与法.png",重庆社会与法
 http://211.158.153.188:8010/udp/225.0.4.190:7980
 #EXTINF:-1 group-title="重庆" tvg-logo="https://live.fanmingming.com/tv/重庆少儿.png",重庆少儿
 http://211.158.153.188:8010/udp/225.0.4.191:7980
 #EXTINF:-1 group-title="重庆" tvg-logo="https://live.fanmingming.com/tv/重庆影视.png",重庆影视
-http://211.158.153.188:8010/udp/225.0.4.192:7980
+http://123.145.18.50:8004/udp/225.0.4.192:7980
 #EXTINF:-1 group-title="重庆" tvg-logo="https://live.fanmingming.com/tv/重庆科教.png",重庆科教
 http://211.158.153.188:8010/udp/225.0.4.193:7980
 #EXTINF:-1 group-title="重庆" tvg-logo="https://live.fanmingming.com/tv/重庆娱乐.png",重庆娱乐
