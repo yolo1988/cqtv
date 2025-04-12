@@ -190,7 +190,7 @@ http://59.173.243.210:9901/tsfile/live/0119_1.m3u8
 https://epg.pw/stream/ffcb6572863f0745a7369fbd9d901f1dfd0ab8fab8bad8bebb4e01c90b303c47.m3u8
 
 #EXTINF:-1 group-title="重庆" tvg-logo="https://live.fanmingming.com/tv/重庆卫视.png",重庆卫视1
-http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226963/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EjTXsJprEx2nE38tdvu5lhA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
+http://120.76.248.139/live/bfgd/4200000107.m3u8
 #EXTINF:-1 group-title="重庆" tvg-logo="https://live.fanmingming.com/tv/重庆卫视.png",重庆卫视2
 http://14.157.91.186:4022/udp/239.77.0.182:5146
 #EXTINF:-1 group-title="重庆" tvg-logo="https://live.fanmingming.com/tv/重庆卫视.png",重庆卫视3
@@ -210,7 +210,7 @@ http://123.145.18.50:8004/udp/225.0.4.194:7980
 #EXTINF:-1 group-title="重庆" tvg-logo="https://live.fanmingming.com/tv/重庆移动.png",重庆移动
 http://211.158.153.188:8010/udp/225.0.4.215:7980
 #EXTINF:-1 group-title="重庆" tvg-logo="https://epg.112114.xyz/logo/重庆汽摩.png",重庆汽摩
-http://123.145.18.50:8004/udp/225.0.4.195:7980
+http://120.76.248.139/live/bfgd/4200000168.m3u8
 #EXTINF:-1 group-title="重庆" tvg-logo="https://live.fanmingming.com/tv/重庆时尚.png",重庆时尚
 https://tvlive.ugoshop.com/ugotvlive/ssgotv.m3u8?auth_key=2312509421-0-0-6642ec3645caa943da6855a9ef7e2129
 #EXTINF:-1 group-title="重庆" tvg-logo="https://live.fanmingming.com/tv/重庆新农村.png",重庆新农村
@@ -225,6 +225,8 @@ http://222.179.155.21:1935/ch1.m3u8
 https://qxlmlive9.cbg.cn/applive/yctv01/playlist.m3u8
 #EXTINF:-1 group-title="重庆" tvg-logo="http://tv.haoqu99.com/d/file/2017/0629/smallde9beb5bb850613768ad55cd38bc4dad1498729606.jpg",璧山综合
 http://222.179.42.129:8181/hls1.m3u8
+#EXTINF:-1 group-title="重庆" tvg-logo="http://tv.haoqu99.com/d/file/2017/0629/smallde9beb5bb850613768ad55cd38bc4dad1498729606.jpg",璧山综合-2
+http://222.179.42.129:8181/hls1.m3u8?zzhongqd
 #EXTINF:-1 group-title="重庆" tvg-logo="http://tv.haoqu99.com/d/file/2017/0629/smallfe559d43bddcad0fc776d30ddc33215d1498718504.jpg",铜梁综合
 http://183.64.174.171:40123/ch1.m3u8
 #EXTINF:-1 group-title="重庆" tvg-logo="http://tv.haoqu99.com/d/file/2017/0629/small6e9abbac1e528f3caf4a77b04f4672af1498749787.jpg",潼南综合
@@ -237,8 +239,6 @@ http://123.146.162.24:8017/iTXwrGs/800/live.m3u8
 http://123.146.162.24:8013/tslslive/noEX9SG/hls/live_sd.m3u8
 #EXTINF:-1 group-title="重庆" tvg-logo="http://tv.haoqu99.com/d/file/2017/0629/small658c1e2250d4a57ea9c3fe295777bfa91498719246.jpg",万州三峡移民频道
 http://123.146.162.24:8013/tslslive/PU2vzMI/hls/live_sd.m3u8?zzhongqd
-#EXTINF:-1 group-title="重庆",重庆万源新闻综合
-http://live.wanyuannews.com/wytv/hd/live.m3u8
 #EXTINF:-1 group-title="重庆" tvg-logo="http://tv.haoqu99.com/d/file/2017/0629/smalle3867e3364159c3eb0c5a30397339b121498727671.jpg",梁平综合
 https://qxlmlive9.cbg.cn/applive/lplive01/chunklist.m3u8
 #EXTINF:-1 group-title="重庆" tvg-logo="http://tv.haoqu99.com/d/file/2017/0630/smalle492e5c2fbf59943a78a2afd441fe5cc1498810366.jpg",垫江综合
@@ -255,11 +255,11 @@ http://qxlmlive9.cbg.cn/applive/youytv01/playlist.m3u8
 #EXTINF:-1 group-title="港台频道" tvg-logo="https://live.fanmingming.com/tv/香港卫视.png",香港卫视
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 #EXTINF:-1 group-title="港台频道" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视中文台.png",凤凰中文
-http://58.144.154.93/qctv.fengshows.cn/live/0701pcc72.m3u8
+http://aktv-stream.m16tv.cfd/stream/aktv/null-3/AKTV.m3u8
 #EXTINF:-1 group-title="港台频道" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视资讯台.png",凤凰资讯
-http://58.144.154.93/qctv.fengshows.cn/live/0701pin72.m3u8
+http://aktv-stream.m16tv.cfd/stream/aktv/null-4/AKTV.m3u8
 #EXTINF:-1 group-title="港台频道" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视香港台.png",凤凰香港
-http://58.144.154.93/qctv.fengshows.cn/live/0701phk72.m3u8
+http://aktv-stream.m16tv.cfd/stream/aktv/null-5/AKTV.m3u8
 #EXTINF:-1 group-title="港台频道",香港33台
 https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream03/streamPlaylist.m3u8
 #EXTINF:-1 group-title="港台频道",香港34台
@@ -330,7 +330,7 @@ https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTl
 #EXTINF:-1 group-title="历年春晚",春晚2011
 https://alimov2.a.kwimgs.com/upic/2023/01/16/11/BMjAyMzAxMTYxMTA3MjFfNDAzMDAxOTlfOTM3MjcyMjA3ODhfMF8z_b_B8214200efc869dc6fcf99dad619fa4c1.mp4
 #EXTINF:-1 group-title="历年春晚",春晚2012
-https://cdn8.yzzy-online.com/20220704/591_82b72f82/1000k/hls/index.m3u8
+https://txmov2.a.kwimgs.com/bs3/video-hls/5219953534755647343_hlshd15.m3u8
 #EXTINF:-1 group-title="历年春晚",春晚2013
 https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQ1NjNfMF8z_b_B4fea55408dca4471a68a963ae096be59.mp4
 #EXTINF:-1 group-title="历年春晚",春晚2014
@@ -338,11 +338,11 @@ https://txmov2.a.kwimgs.com/bs3/video-hls/5245286283437869627_hlshd15.m3u8
 #EXTINF:-1 group-title="历年春晚",春晚2015
 https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQ2MTZfMF8z_b_B4851f43f5a2bc2871a9b0ec87294a6e7.mp4
 #EXTINF:-1 group-title="历年春晚",春晚2016
-https://cdn8.yzzy-online.com/20220704/577_cda9c8d1/1000k/hls/index.m3u8
+https://txmov2.a.kwimgs.com/bs3/video-hls/5238530884094441260_hlshd15.m3u8
 #EXTINF:-1 group-title="历年春晚",春晚2017
 https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQ2NDhfMF8z_b_B6527b0c2ce3dda1d9b3f34edd4fdb9aa.mp4
 #EXTINF:-1 group-title="历年春晚",春晚2018
-https://cdn8.yzzy-online.com/20220704/610_ae5255ad/1000k/hls/index.m3u8
+https://txmov2.a.kwimgs.com/bs3/video-hls/5212635188105848764_hlshd15.m3u8
 #EXTINF:-1 group-title="历年春晚",春晚2019
 https://txmov2.a.kwimgs.com/bs3/video-hls/5222205336887088723_hlshd15.m3u8
 #EXTINF:-1 group-title="历年春晚",春晚2020
@@ -357,3 +357,5 @@ http://txmov2.a.kwimgs.com/upic/2022/02/01/11/BMjAyMjAyMDExMTEwMjNfNDAzMDAxOTlfN
 https://txmov2.a.kwimgs.com/bs3/video-hls/5251197255879398624_hlshd15.m3u8
 #EXTINF:-1 group-title="历年春晚",春晚2024
 https://p2.bdstatic.com/rtmp.liveshow.lss-user.baidubce.com/live/stream_bduid_6488563992_8982723413/merged_1707497046297_88536_25144_41936.m3u8
+#EXTINF:-1 group-title="历年春晚",春晚2025
+https://svip.high24-playback.com/20250129/17159_7bca93c4/2000k/hls/mixed.m3u8
